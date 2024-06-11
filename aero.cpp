@@ -838,9 +838,9 @@ glVertex2f(135.0,55.0);
 glVertex2f(150.0,50.0);
 glVertex2f(155.0,45.0);
 glVertex2f(160.0,40.0);
-glVertex2f(135.0,40.0);
-glEnd();
-glPopMatrix();
+// glVertex2f(135.0,40.0);
+// glEnd();
+// glPopMatrix();
 
 glPushMatrix();
 glTranslated(e,300.0,0.0);
