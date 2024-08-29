@@ -30,12 +30,8 @@ Make sure you have the necessary dependencies installed:
                             GLEW (Optional)
                             glfw
  
-5.  For intallation please follow this blog 
 
-  https://medium.com/@bhargav.chippada/how-to-setup-opengl-on-mingw-w64-in-windows-10-64-bits-b77f350cea7e
-
-
-6. Notes
+5. Notes
 This project assumes that all source files are in the src directory.
 Adjust the compilation command based on your project structure.
 Feel free to explore and modify the source code to enhance the simulation according to your preferences.
